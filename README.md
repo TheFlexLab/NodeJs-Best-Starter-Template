@@ -27,7 +27,7 @@ A production-ready Node.js starter template with authentication, KYC APIs, Passp
 
 ```sh
 git clone https://github.com/NodeJs-Best-Starter-Template.git  
-cd -------
+cd NodeJs-Best-Starter-Template
 ```  
 
 ### 2️⃣ Install Dependencies  
